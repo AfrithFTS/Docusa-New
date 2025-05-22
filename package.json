@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "docusaurus": "^1.14.7"
+    "docusaurus": "^0.0.2"
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "gh-pages": "^6.3.0"
   }
 }
